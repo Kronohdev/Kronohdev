@@ -12,6 +12,7 @@
 </p>
 
 <p align="center">
+  <a href="https://kronohdev.github.io"><img src="https://img.shields.io/badge/site-kronohdev.github.io-ff2e88?style=for-the-badge&labelColor=12092a" alt="site"></a>
   <a href="https://neferoo.itch.io"><img src="https://img.shields.io/badge/itch.io-neferoo-ff2e88?style=for-the-badge&logo=itchdotio&logoColor=white&labelColor=12092a" alt="itch.io"></a>
   <a href="https://x.com/kaua_nevess"><img src="https://img.shields.io/badge/X-@kaua__nevess-ff2e88?style=for-the-badge&logo=x&logoColor=white&labelColor=12092a" alt="X"></a>
   <a href="https://www.instagram.com/kaua.nevesss/"><img src="https://img.shields.io/badge/Instagram-@kaua.nevesss-ff2e88?style=for-the-badge&logo=instagram&logoColor=white&labelColor=12092a" alt="Instagram"></a>
