@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <b>Kauã Neves</b> · game developer · lead director at <a href="https://www.instagram.com/hfts_ofc/"><b>HFTS Productions</b></a><br>
-  <i>small, strange games with big atmosphere</i>
+  <b>Kauã Neves</b> · game developer · director at <a href="https://www.instagram.com/hfts_ofc/"><b>HFTS Productions</b></a><br>
+  <i>strange games with big atmosphere</i>
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 <td width="38%" align="center"><img src="assets/corvo.gif" alt="NEFERO crow" width="260"></td>
 <td>
 <h3>Hi, I'm Kauã</h3>
-<p>I make <b>small, strange games with big atmosphere</b>: card tables at 3 AM, nights that never end, crows that stare back, and a lot of Brazil in everything. Pull up a chair. The coffee is cold, the dice are loaded, and the crow already knows your move.</p>
+<p>I make <b>strange games with big atmosphere</b>: card tables at 3 AM, nights that never end, crows that stare back, and a lot of Brazil in everything. Pull up a chair. The coffee is cold, the dice are loaded, and the crow already knows your move.</p>
 <ul>
 <li><b>Surreal games that keep <i>me</i> entertained first.</b> If I'm not hooked while building it, it doesn't ship.</li>
 <li><b>Strategy</b>, with <b>a pinch of RPG in everything</b>: stats, choices, consequences.</li>
@@ -39,7 +39,7 @@
 <details>
 <summary><b>🇧🇷 Ler em português</b></summary>
 
-Oi, eu sou o Kauã e faço **jogos pequenos e estranhos, com muito clima**: carteado às 3 da manhã, noites que não acabam, corvos que te encaram de volta e muito Brasil em tudo. Puxa a cadeira: o café tá frio, o dado tá viciado e o corvo já sabe a sua jogada.
+Oi, eu sou o Kauã e faço **jogos estranhos, com muito clima**: carteado às 3 da manhã, noites que não acabam, corvos que te encaram de volta e muito Brasil em tudo. Puxa a cadeira: o café tá frio, o dado tá viciado e o corvo já sabe a sua jogada.
 
 - **Jogos surrealistas que me divertem primeiro.** Se eu não fico viciado fazendo, não sai.
 - **Estratégia**, com **uma pitada de RPG em tudo**: atributos, escolhas, consequências.
@@ -51,7 +51,7 @@ Oi, eu sou o Kauã e faço **jogos pequenos e estranhos, com muito clima**: cart
 
 ## HFTS Productions
 
-I'm one of the creators of **HFTS Productions**, a Brazilian indie studio, and the **lead director** of our projects: game design, writing and direction, art and programming. Small team, big ideas, questionable sleep schedule.
+I'm one of the creators of **HFTS Productions**, a Brazilian indie studio, and the **director** of our projects: game design, writing and direction, art and programming. Small team, big ideas, questionable sleep schedule.
 
 | Game | |
 |---|---|
@@ -62,7 +62,7 @@ I'm one of the creators of **HFTS Productions**, a Brazilian indie studio, and t
 <details>
 <summary><b>🇧🇷 Ler em português</b></summary>
 
-Sou um dos criadores da **HFTS Productions**, estúdio indie brasileiro, e o **diretor principal** dos nossos projetos: game design, roteiro e direção, arte e programação. Equipe pequena, ideia grande, sono duvidoso.
+Sou um dos criadores da **HFTS Productions**, estúdio indie brasileiro, e o **diretor** dos nossos projetos: game design, roteiro e direção, arte e programação. Equipe pequena, ideia grande, sono duvidoso.
 
 - **Saideira**: truco de terror numa mesa de boteco, de madrugada. Os dois roubam; quem provar primeiro, ganha.
 - **Coiote's Dawn**: *sobreviva o dia, domine a noite.*
